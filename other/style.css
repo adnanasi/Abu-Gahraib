@@ -1,0 +1,19 @@
+nav{
+color:teal;}
+blockquote { 
+background-color: teal;
+border-radius: 30px;
+}
+a{
+font-size:20px;}
+em{
+color:white ;}
+button{
+position:relative;
+left:-10px;}
+li { 
+padding: 10%;
+font-size: 25px;
+}
+strong { 
+color: white;}

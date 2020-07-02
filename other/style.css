@@ -1,19 +1,40 @@
 nav{
-color:teal;}
+color:teal;
+}
+
 blockquote { 
 background-color: teal;
 border-radius: 30px;
 }
+
 a{
-font-size:20px;}
+font-size:20px;
+}
+
+a:hover{
+text-decoration: underline;
+background-color: gray;
+}
+
 em{
-color:white ;}
+color:white ;
+}
+
 button{
 position:relative;
-left:-10px;}
+left:-10px;
+}
+
 li { 
 padding: 10%;
 font-size: 25px;
 }
+
 strong { 
-color: white;}
+color: white;
+}
+
+div.sticky{
+position: sticky;
+top:0px ;
+}
